@@ -1,0 +1,13 @@
+{
+  "Filter01": {
+    "navigation": {
+      "type": "TWO_LEVEL",
+      "category": "Wiki Filters",
+      "pageName": "Filters - 01"
+    },
+    "moduleName": "Filter Module 01",
+    "json": "filter01.json",
+    "validateSQL": false,
+    "validateJSON": true
+  }
+}

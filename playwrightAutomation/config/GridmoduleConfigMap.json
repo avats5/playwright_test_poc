@@ -1,0 +1,14 @@
+{
+  "SimpleGrid01": {
+    "navigation": {
+      "type": "TWO_LEVEL",
+      "category": "Wiki Grids",
+      "pageName": "Simple Grid - 01"
+    },
+    "moduleName": "Simple Grid 01",
+    "sql": "simpleGrid01.sql",
+    "json": "simpleGrid01.json",
+    "validateSQL": true,
+    "validateJSON": true
+  }
+}

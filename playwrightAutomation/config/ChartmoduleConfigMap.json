@@ -1,0 +1,12 @@
+{
+  "Chart01": {
+    "navigation": {
+      "type": "DIRECT",
+      "category": "Wiki Charts"
+    },
+    "moduleName": "Line Chart 01",
+    "json": "chart01.json",
+    "validateSQL": false,
+    "validateJSON": true
+  }
+}

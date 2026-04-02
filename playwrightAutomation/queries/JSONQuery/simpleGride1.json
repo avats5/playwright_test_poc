@@ -1,0 +1,65 @@
+{
+  "type": "simple",
+  "dimensions": [
+    {
+      "universeToken": "62c3fea4-83e9-418b-82af-57c276ab93c0",
+      "fieldToken": "c7806793-8005-48ac-9618-c4329474d306"
+    },
+    {
+      "universeToken": "62c3fea4-83e9-418b-82af-57c276ab93c0",
+      "fieldToken": "d4fc24e1-a570-4bef-adb6-f82872b37bdd"
+    },
+    {
+      "universeToken": "62c3fea4-83e9-418b-82af-57c276ab93c0",
+      "fieldToken": "03f759a6-c2f8-4e1b-8db8-8a6d6bed1267"
+    },
+    {
+      "universeToken": "62c3fea4-83e9-418b-82af-57c276ab93c0",
+      "fieldToken": "080de00d-5c3d-466b-b47b-5eaaff97d5f7"
+    },
+    {
+      "universeToken": "62c3fea4-83e9-418b-82af-57c276ab93c0",
+      "fieldToken": "1142d891-9372-429e-af40-9ec9ee2614cf"
+    },
+    {
+      "universeToken": "62c3fea4-83e9-418b-82af-57c276ab93c0",
+      "fieldToken": "82d69761-48cb-4ba5-9475-3e76a2ff2c9b"
+    },
+    {
+      "universeToken": "62c3fea4-83e9-418b-82af-57c276ab93c0",
+      "fieldToken": "b8e5b04f-0208-4749-82a4-694c4ee59157"
+    },
+    {
+      "universeToken": "62c3fea4-83e9-418b-82af-57c276ab93c0",
+      "fieldToken": "b761e4c7-da58-4abd-86aa-cfa920c1b44e",
+      "hidden": true,
+      "visibleInChooser": true
+    }
+  ],
+  "aspect": {
+    "title": "Simple Grid 01",
+    "exportTitle": "Grid - export",
+    "subtitleType": "standard",
+    "subtitle": "<p>Simple grid - &quot;Subtitle on page&quot;</p>",
+    "exportSubtitle": "<p>subtitle on export</p>",
+    "footer_title": "<p>Simple grid - &quot;Footer below the Grid page&quot; </p>",
+    "rowHeightFunction": "if (data[\"enc_id\"] % 2 == 1) {\r\n    return 90; \r\n}",
+    "hideColumnHeaders": false,
+    "showRowNumber": true,
+    "headerColor": "#e91e63",
+    "headerBackgroundColor": "#ede7f6",
+    "transpose": false
+  },
+  "interactivity": {
+    "groupSelection": false,
+    "allowUpdating": false,
+    "allowAdding": false,
+    "allowCloning": false,
+    "allowDeleting": false,
+    "enableSearch": true,
+    "filterRow": true,
+    "paging": true,
+    "pagingRows": 25,
+    "show_column_chooser": true
+  }
+}
