@@ -18,8 +18,8 @@ export default defineConfig({
 
   use: {
     browserName: 'chromium',
-    headless: false,
-    screenshot: 'on',
+    headless: true,
+    screenshot: 'off',
     trace: 'on',
   },
 });
